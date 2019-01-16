@@ -1,0 +1,12 @@
+D:\KODLAMA\C#\Bireysel Çalışmalar\C# Form\06.01.2019\linq\linq\bin\Debug\linq.exe.config
+D:\KODLAMA\C#\Bireysel Çalışmalar\C# Form\06.01.2019\linq\linq\bin\Debug\linq.exe
+D:\KODLAMA\C#\Bireysel Çalışmalar\C# Form\06.01.2019\linq\linq\bin\Debug\linq.pdb
+D:\KODLAMA\C#\Bireysel Çalışmalar\C# Form\06.01.2019\linq\linq\obj\Debug\linq.exe
+D:\KODLAMA\C#\Bireysel Çalışmalar\C# Form\06.01.2019\linq\linq\obj\Debug\linq.pdb
+D:\KODLAMA\C#\Bireysel Çalışmalar\C# Form\06.01.2019\linq\linq\obj\Debug\linq.csprojResolveAssemblyReference.cache
+D:\KODLAMA\C#\Bireysel Çalışmalar\linq\linq\bin\Debug\linq.exe.config
+D:\KODLAMA\C#\Bireysel Çalışmalar\linq\linq\bin\Debug\linq.exe
+D:\KODLAMA\C#\Bireysel Çalışmalar\linq\linq\bin\Debug\linq.pdb
+D:\KODLAMA\C#\Bireysel Çalışmalar\linq\linq\obj\Debug\linq.exe
+D:\KODLAMA\C#\Bireysel Çalışmalar\linq\linq\obj\Debug\linq.pdb
+D:\KODLAMA\C#\Bireysel Çalışmalar\linq\linq\obj\Debug\linq.csprojResolveAssemblyReference.cache
